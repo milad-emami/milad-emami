@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Software Engineer, Experienced Frontend Developer, and Javascript Enthusiast. I have hands-on experience in HTML, CSS, JavaScript, React.js, and Next.js. I enjoy learning, and I'm always open to taking on new challenges helping me to improve myself and move forward.
+Frontend engineer with over 2 years of experience developing web applications and products using HTML, CSS, javascript, typescript, react.js, next.js, and remix.js.
+I enjoy learning, and I'm always open to taking on new challenges helping me to improve myself and move forward.
 
 * ✉️  You can contact me at [milad.emami1025@gmail.com](mailto:milad.emami1025@gmail.com)
 
